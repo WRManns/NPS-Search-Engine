@@ -7,12 +7,12 @@ This is a web app for searching open National Parks with a State filter.
 ![scrn-shot1](./assets/images/scrn-shot1.png)
 
 The map will center on the results
-![scrn-shot2](./assets/images/scrn-shot2.PNG)
+![scrn-shot2](./assets/images/scrn-shot2.png)
 
 A list will populate with selectable links to each park
-![scrn-shot3](./assets/images/scrn-shot3.PNG)
+![scrn-shot3](./assets/images/scrn-shot3.png)
 
 Upon selecting a new state the list will clear and repopulate with the new results & clear all markers and reset center on the new locations
-![scrn-shot4](./assets/images/scrn-shot4.PNG)
+![scrn-shot4](./assets/images/scrn-shot4.png)
 
 All code can be accessed at: https://github.com/WRManns/NPS-Search-Engine
